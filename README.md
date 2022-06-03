@@ -1,7 +1,7 @@
 # MNIST
 Attention map visualization to explain an model
 ## loss.py
-Using simCLR loss instead of dino loss on the paper. More details con be found in :
+Using simCLR loss instead of the loss of dino in the paper. More details can be found in :
 
 article: The Illustrated SimCLR Framework (https://amitness.com/2020/03/illustrated-simclr/)
 
